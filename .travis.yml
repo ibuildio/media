@@ -1,0 +1,8 @@
+script: bash ./deploy.sh
+language: node_js
+node_js:
+- '5'
+env:
+  global:
+  - GH_REF: github.com/ibuildio/media.git
+  - secure: kEpaWaq8Kjr/p4/SH2vxVPnjAoI3u4og0KoHYFxUveS1WnzqedUgd/+6GvQHu0L2sNKo5q4qGoQtHXg9wEHCpL1Fsew7XWOBgR7kQt/fC2yAxEqTSm36atEFYUM2F56CpOQNYWtNsma8Esn2zy4Km4G/TEQZoYVe34JfYOJoE+VW8eJRD5kW18Mp5DrmDIh4+COD4NexIEkRmn7HrKjf32ecGUOJ4VwgPXL+SAjBQD4L/qSW/In/m1pVcy9xroGrdAjzK+EaRUhbUP9ehDNSqu1XnvZWAM8UIMfwqCzEgS7pZ+ZVjiVEReGjlTVyuDmZLQSkgOyClZAkPNarOVtXKKZD6C/wjV5LByCpBhIZ0UOGsIaa+MP1+TunO63tiCEqHWWvch/ByFpAhju5LtpHL2vU2us3H8lmC90XfKoYMPaGF4B4fKv3UhwfaJtxJiep18P5RZfOFsjFK6EWZs9Enp2dZyVgOkVSI666tfZNdsiwlcHxtyaXXS6ewpl2MPoppbpMpsjgGFs2NOBF/63Cgu4ScapmJbPxu7NUgHBm87EjcTfAA5mX9DOIjEctaBPM0ion7GKqCLfwm13DVg9d+3wTZQeL4SPnz73tRypkjHccqr7f/yKiuXqHh931qrye3FMYgoYPeO3zHW/YOk863KL2ePwktfQBAHCGqrO0Bio=
