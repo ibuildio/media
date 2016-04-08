@@ -31,7 +31,7 @@
   },
   "template": [
     {
-      "description": "A collection of logos with mascot or mascot and text",
+      "description": "Ibuild logo and artwork",
       "source": "{{ global.files.source }}\/logo.template",
       "dest": "{{ global.files.dest }}",
       "data":[
@@ -99,7 +99,7 @@
     "dest": ".",
     "template": "{{ global.files.source }}\/index.template",
     "filename": "index.html",
-    "title": "iBuild Logos .. ",
+    "title": "Ibuild Logos",
     "description": "{{ package.description }}",
     "github_url": "{{& package.repository }}",
     "link": {
