@@ -1,0 +1,25 @@
+{
+  "name": "ibuildio-media",
+  "version": "0.1.0",
+  "homepage": "https://ibuild.io",
+  "description": "Ibuild logo and artwork",
+  "author": "Adnan M.Sagar, PhD. <adnan@ibuild.io>",
+  "license" : "UNLICENSED",
+  "keywords": [
+    "ibuild.io",
+    "websemantics.io",
+    "media",
+    "logo"
+  ],
+  "scripts": {
+    "postinstall": "gulp"
+  },
+  "repository": "ibuildio/media",
+  "bugs": {
+    "url": "https://github.com/ibuildio/media/issues"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-svg-smart": "*"
+  }
+}
