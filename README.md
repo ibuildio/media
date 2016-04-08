@@ -13,7 +13,7 @@
 
 [![image](https://raw.githubusercontent.com/ibuildio/media/gh-pages/assets/png/outline-lite-text-w400.png)](http://ibuild.io)
 
-[View all logos](http://ibuildio.github.io/logos/)
+[View all media](http://ibuildio.github.io/media/)
 
 
 ## Install
