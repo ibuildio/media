@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "ibuildio-media",
+  "description": "Ibuild logo and artwork",
+  "icons": {
+    "60": "assets/icon/firefox_app_60x60.png",
+    "128": "assets/icon/firefox_app_128x128.png",
+    "512": "assets/icon/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Adnan M.Sagar, PhD. &lt;adnan@ibuild.io&gt;",
+    "url": "https://ibuild.io"
+  }
+}
